@@ -40,6 +40,6 @@ int main()
     int t=1;
     int x = 0;
     x++;
-    cout<<x<<"\n";
+    cout<<++x<<"\n";
     return 0;
 }
